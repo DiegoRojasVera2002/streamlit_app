@@ -11,5 +11,5 @@ six==1.16.0
 tzdata==2024.1
 virtualenv==20.26.3
 neo4j==4.4.3
-streamlit==1.6.0
+streamlit==1.37.1
 streamlit-agraph==0.1.4
